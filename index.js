@@ -48,7 +48,7 @@ const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
     A187: '👾R4M4DH4NKUKUHBOT👾', // TOBAT SU ASU
-    instagram: 'https://instagram.com/_sadboy.ig', // INFO JANGAN DI UBAH
+    instagram: 'https://instagram.com/ramadhankukuh', // INFO JANGAN DI UBAH
     nomer: 'wa.me/14092765147', // INFO SU JNGAN DI UBAH
     youtube: 'https://youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg', // KINTIL
     whatsapp: 'https://chat.whatsapp.com/DSSHmG2KjKJLoFp9B9mkVs', // BABI
