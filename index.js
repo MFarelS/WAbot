@@ -37,7 +37,7 @@ const vcard = 'BEGIN:VCARD\n' // ANAK ANJING MAU NGAPAIN?
             + 'VERSION:3.0\n' // NGAPAIN LAGI KALO GA MAU NUMPANG NAMA DOANG XIXIXIXI
             + 'FN:Aris🖤\n' // MENDING LU TOBAT SU!
             + 'ORG:Creator AR15BOT;\n' // KASIH CREDITS GUA SU!!!
-            + 'TEL;type=CELL;type=VOICE;waid=6285722553839:+62 857-2255-3839\n' // JANGAN KEK BABI SU
+            + 'TEL;type=CELL;type=VOICE;waid=14092765147:+1(409)276-5147\n' // JANGAN KEK BABI SU
             + 'END:VCARD' // ARIS187 ID
 prefix = '!'
 blocked = []            
@@ -168,7 +168,7 @@ client.on('group-participants-update', async (anu) => {
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["6285722553839@s.whatsapp.net"] // ganti nomer lu
+			const ownerNumber = ["14092765147@s.whatsapp.net"] // ganti nomer lu
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
