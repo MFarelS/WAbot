@@ -54,8 +54,8 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/A187ID/AR15BOT
-> cd AR15BOT
+> git clone https://github.com/ramadhankukuh/WAbot
+> cd WAbot
 > bash install.sh
 > node index js
 > Tinggal scan kode qr yeee...done
